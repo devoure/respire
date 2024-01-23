@@ -1,0 +1,7 @@
+django-cors-headers
+librosa
+resampy
+djangorestframework
+djangorestframework-simplejwt
+pillow
+certifi
