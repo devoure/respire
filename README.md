@@ -1,19 +1,19 @@
 ![Daktariml Header](./screenshots/daktariml2.jpg)
 
 # :hospital: Daktariml
-> :bulb: **Collaborative Project** 1
+> :bulb: **Collaborative Project**
 ## 💬 Description
 > This is a full stack project that is build with django and react. On the core of the project is a machine learning model that predicts illness from a respiratory sound recording. So users can visit the web app and view or add predictions made by the model.
 ![desc](./screenshots/arch.png)
 ## :performing_arts: Developers Team
-1. ![Jones Nyamweya, ML Engineer](https://github.com/jones0011738)
-> Worked on the machine learning model.
-1. ![Athumani Bakari, Full Stack Dev](https://github.com/devoure)
-> Worked on the web app where the model is deployed.
+    1. ![Jones Nyamweya, ML Engineer](https://github.com/jones0011738)
+        > Worked on the machine learning model.
+    1. ![Athumani Bakari, Full Stack Dev](https://github.com/devoure)
+        > Worked on the web app where the model is deployed.
 ## 📜 More
 > ## UI/UX
   1. The responsive web application user interface is designed and tested on figma.
-     > A link to the figma file. ![click here to view design](https://www.figma.com/file/C84UfI0S1CLs1BI8DdvKQ4/daktari.ml?type=design&node-id=0%3A1&mode=design&t=LCRwLJuB7bcI1fsV-1)
+     > A link to the figma file. ![click here to view figma design](https://www.figma.com/file/C84UfI0S1CLs1BI8DdvKQ4/daktari.ml?type=design&node-id=0%3A1&mode=design&t=LCRwLJuB7bcI1fsV-1)
 
 > ## Database
   1. The web application uses sqlite database
